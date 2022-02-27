@@ -1,0 +1,4 @@
+{
+    "rust-analyzer.checkOnSave.allTargets": false,
+    "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
